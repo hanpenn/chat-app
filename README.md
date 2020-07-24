@@ -8,7 +8,6 @@
 | email    | string | null: false |
 | password | string | null: false |
 
-* Ruby version
 ### Association
 - has_many :room_users
 - has_many :rooms, through: room_users
