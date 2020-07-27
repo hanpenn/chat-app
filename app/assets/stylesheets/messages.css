@@ -46,7 +46,7 @@
   padding: 20px 0 40px;
 }
 
-.chat-room a {
+.room-name a {
   text-decoration: none;
   color: white;
 }
@@ -81,7 +81,7 @@
 
 .messages {
   background-color: #FAFAFA;
-  height: calc(100vh - 100px -90px);
+  height: calc(100vh - 190px);
   padding: 46px 40px 0;
   overflow: scroll;
   box-sizing: border-box;
